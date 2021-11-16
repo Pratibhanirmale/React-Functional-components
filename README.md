@@ -1,3 +1,4 @@
+![Functional component](https://user-images.githubusercontent.com/90618272/141963859-4535e3b9-f3f5-44fd-978f-4340424dfa97.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
